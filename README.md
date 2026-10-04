@@ -1,7 +1,6 @@
 <!--
   Profile README for github.com/anshikam1245  (repo: anshikam1245/anshikam1245)
   Keep the /assets folder next to this file.
-  Replace before committing: YOUR-BEHANCE, YOUR-SUBSTACK
 -->
 
 <div align="center">
@@ -10,9 +9,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/anshika-mittal"><img src="./assets/badge-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;
-<a href="https://behance.net/YOUR-BEHANCE"><img src="./assets/badge-behance.svg" height="40" alt="Behance"/></a>&nbsp;
-<a href="https://YOUR-SUBSTACK.substack.com"><img src="./assets/badge-substack.svg" height="40" alt="Substack"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/anshika-mittal-660354265"><img src="./assets/badge-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.behance.net/anshikamittal1245"><img src="./assets/badge-behance.svg" height="40" alt="Behance"/></a>&nbsp;
+<a href="https://anshikam1245.substack.com/"><img src="./assets/badge-substack.svg" height="40" alt="Substack"/></a>&nbsp;
 <a href="mailto:anshikamittal1245@gmail.com"><img src="./assets/badge-email.svg" height="40" alt="Email"/></a>&nbsp;
 <a href="https://x.com/anshikam1245"><img src="./assets/badge-x.svg" height="40" alt="Twitter / X"/></a>&nbsp;
 <a href="https://www.credly.com/users/anshika-mittal.120405"><img src="./assets/badge-credly.svg" height="40" alt="Credly"/></a>
@@ -75,7 +74,7 @@ An EDA-driven dashboard on Netflix content trends, genre patterns and release ti
   <source media="(prefers-color-scheme: dark)" srcset="./assets/s-pinterest-dark.svg"/>
   <img src="./assets/s-pinterest-light.svg" width="372" alt="Figma, heuristic evaluation, competitive analysis, interaction design"/>
 </picture><br/>
-[Read the case study](https://www.behance.net/gallery/254669803/Pinterest-UX-Case-Study-Heuristic-Audit-Redesign)
+<a href="https://www.behance.net/gallery/254669803/Pinterest-UX-Case-Study-Heuristic-Audit-Redesign">Read the case study</a>
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +83,7 @@ An EDA-driven dashboard on Netflix content trends, genre patterns and release ti
   <source media="(prefers-color-scheme: dark)" srcset="./assets/s-netflix-dark.svg"/>
   <img src="./assets/s-netflix-light.svg" width="372" alt="Python, Flask, Pandas, Plotly, Seaborn"/>
 </picture><br/>
-[View the repo](https://github.com/anshikam1245/netflix-insights-dashboard)
+<a href="https://github.com/anshikam1245/netflix-insights-dashboard">View the repo</a>
 
 </td>
 </tr>
@@ -125,7 +124,7 @@ Five builds from scratch, where I test design ideas in the browser instead of on
   <source media="(prefers-color-scheme: dark)" srcset="./assets/s-web-dark.svg"/>
   <img src="./assets/s-web-light.svg" width="372" alt="HTML, CSS, JavaScript"/>
 </picture><br/>
-[Browse the builds](https://github.com/anshikam1245)
+<a href="https://github.com/anshikam1245">Browse the builds</a>
 
 </td>
 </tr>
