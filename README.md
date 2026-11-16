@@ -115,7 +115,9 @@ Five builds from scratch, where I test design ideas in the browser instead of on
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/s-boat-dark.svg"/>
   <img src="./assets/s-boat-light.svg" width="372" alt="UX audit, heuristic evaluation, user flows"/>
-</picture>
+</picture><br/>
+<a href="https://www.behance.net/gallery/258539387/boAt-A-UX-Brand-Audit-(Desktop-vs-Mobile)">Read the case study</a>
+
 
 </td>
 <td width="50%" valign="top">
